@@ -21,5 +21,5 @@ class Converter {
 	}
 	
 	// RICHTIG GEILER CODE!
-
+	// HIer mein zweiter Commit!
 }
