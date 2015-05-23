@@ -22,4 +22,5 @@ class Converter {
 	
 	// RICHTIG GEILER CODE!
 	// HIer mein zweiter Commit!
+	// Hier ist der Firefox!! Bäm!
 }
