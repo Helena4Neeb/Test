@@ -19,5 +19,7 @@ class Converter {
 	
 	return sb.insert(0, sign).toString();
 	}
+	
+	// RICHTIG GEILER CODE!
 
 }
